@@ -9,6 +9,7 @@ See [gradient-descent], [spectral-clustering], [multidimensional-scaling],
 [manifold-learning], [locally-linear-embedding], [isomap], [covid19-estimate]
 for code assignments.
 
+![](https://ga-beacon.deno.dev/G-4FTHWYCNMC:Ze0vK3cdTmSz-bzSssU1-Q/github.com/iiithf/optimization-methods)
 
 [gradient-descent]: https://github.com/python3f/gradient-descent
 [spectral-clustering]: https://github.com/python3f/spectral-clustering
